@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP: unhandled exceptions. The `bug.php` file shows a function that may throw an exception without any error handling. The solution (`bugSolution.php`) illustrates how to properly handle exceptions using try-catch blocks to prevent unexpected crashes and provide better error reporting.
